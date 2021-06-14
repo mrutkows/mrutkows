@@ -7,7 +7,7 @@
 -->
 
 
-![](https://www.linkedin.com/in/matt-rutkowski-b5545b5?trk=profile-badge)
+[![](matt-linked-in-profile-card-comic.png)](https://www.linkedin.com/in/matt-rutkowski-b5545b5?trk=profile-badge)
 
 - 🔭 I’m primarily working on Apache OpenWhisk and Tekton projects in OSS
 - 🌱 I’m currently learning Tekton pipeline controller, SPDX-compatible toolchains
