@@ -22,6 +22,18 @@
 
 <table border="0" style="border: none;">
   <tr>
+    <!-- IBM Dev. Expert -->
+    <td>
+      <a href="https://www.credly.com/badges/0605e78e-7bf6-4749-bef8-897720d39296/public_url">
+        <img width="100" height="100" src="https://images.credly.com/size/680x680/images/7bf5867d-ea16-4d9f-9a6d-3d9011082c4a/Developer-Expert1.png" alt="Developer Profession - Level 3 Expert">
+      </a>
+    </td>
+    <!-- IBM OSS Strategic Committer -->
+    <td>
+      <a href="https://www.credly.com/badges/789ad4d4-dbd5-4ef6-afaa-63e240e5cc79/public_url">
+        <img width="100" height="100" src="https://images.credly.com/size/680x680/images/1713fb4c-0bec-4d8d-a523-65cee5fa6b3e/Open-Source-Strategic-Committer.png" alt="IBM Open Source Strategic Committer">
+      </a>
+    </td>
     <!-- IBM IKS -->
     <td>
       <a href="https://www.credly.com/badges/18cbbfe8-0370-4e21-a6cc-e33aace3096b/public_url">
