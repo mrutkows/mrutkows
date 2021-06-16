@@ -17,3 +17,13 @@
 - 📫 How to reach me: Email or Slack
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Worked on Skynet AI in late 80s
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.credly.com/badges/18cbbfe8-0370-4e21-a6cc-e33aace3096b/public_url">
+        <img width="40" height="40" src="https://images.credly.com/size/220x220/images/c0fb61c5-3b28-4536-8723-c6b7f486302c/Cloud_Kubernetes_Service.png" alt="IBM Cloud Kubernetes Service">
+      </a>
+    </td>
+  </tr>
+</table>  
