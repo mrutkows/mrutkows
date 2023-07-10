@@ -52,6 +52,18 @@
         <img width="100" height="100" src="https://images.credly.com/size/680x680/images/b6df1cbb-2ade-464c-9924-7ffb3fec3f6c/Open-Source-Strategic-Committer.png" alt="IBM Open Source Strategic Committer">
       </a>
     </td>
+    <!-- IBM Quantum -->
+    <td>
+      <a href="https://www.credly.com/badges/83a1e3c5-be13-433f-a10f-228e16efc278/public_url">
+        <img width="100" height="100" src="https://images.credly.com/size/680x680/images/18cfda79-63fc-4a6d-a96c-2ffc9887cd3c/IBM-Quantum-Conversations.png" alt="IBM Quantum">
+      </a>
+    </td>
+    <!-- IBM Agile -->
+    <td>
+      <a href="https://www.credly.com/badges/016affb4-f998-487e-bc2f-ca52b6583a03/public_url">
+        <img width="100" height="100" src="https://images.credly.com/size/680x680/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png" alt="IBM Quantum">
+      </a>
+    </td>
     <!-- IBM IKS -->
     <td>
       <a href="https://www.credly.com/badges/18cbbfe8-0370-4e21-a6cc-e33aace3096b/public_url">
