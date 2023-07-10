@@ -11,7 +11,7 @@
 
 - 🔭 In Open Source, I’m actively working on the [OWASP sbom-utility](https://github.com/CycloneDX/sbom-utility#resource) project I created and donated to the [OWASP Foundation]()
 - :wrench: IBM Contributor at the [Open Source Security Foundation (OpenSSF)](https://openssf.org/)
-- :wrench: Maintainer, Committer at the [Open Worldwide Application Security Project (OWASP)]([https://owasp.org/)
+- :wrench: Maintainer, Committer at the [Open Worldwide Application Security Project (OWASP)](https://owasp.org/)
 - 🌱 I’m currently all over enhancing/improving the OWASP CycloneDX specification as well as studying how to improve OWASP Dependency Track project for our CIO/CISO teams
 - :older_man: I’ve formerly chaired the [Apache OpenWhisk project](https://github.com/apache?q=openwhisk) from incubator to graduation and contributed to the CD Foundation Tekton project
 - 👯 I’m looking to collaborate on CI/CD and Serverless projects for DevSecOps
@@ -24,11 +24,18 @@
 #### Foundations
 
 <img width="200" height="70" src="https://owasp.org/assets/images/logo.png" alt="OWASP Foundation">
-
 - [OWASP Foundation](https://owasp.org/), Maintainer, Contributor
    - Specification maintainer for CycloneDX including workign groups for v1.5: Attestations, Machine Learning (ML), Manufacturing (Formulation) as well as the [Software Component Verification Standard (SCVS)](https://owasp.org/www-project-software-component-verification-standard/)
-   - Author of the v1.5 Manufacturing BOM (MBOM) proposal/schema/guide
+   - Author of the v1.5 Manufacturing BOM (MBOM) proposal/schema/guide; you an even see my quote in the announcement: https://cyclonedx.org/news/cyclonedx-v1.5-released/
    - Creator/Maintainer CycloneDX Tool "sbom-utility", Maintainer CycloneDX Tool "license-scanner"
+ 
+#### Course Author
+
+- [edX: Building Cloud Native and Multicloud Applications](https://www.edx.org/course/building-cloud-native-and-multicloud-applications)
+- [Coursera: Building Cloud Native and Multicloud](https://www.coursera.org/learn/ibm-building-cloud-native-and-multicloud)
+  - Covers core concepts and practices of building and running Cloud Native applications and how to run these applications in a multicloud environment including DevSecOps, CI/CD, Docker, Kubernetes, and OpenShift.
+  - *available
+
 #### Badges
 
 <table border="0" style="border: none;">
