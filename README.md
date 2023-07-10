@@ -24,17 +24,17 @@
 #### Foundations
 
 <img width="200" height="70" src="https://owasp.org/assets/images/logo.png" alt="OWASP Foundation">
+
 - [OWASP Foundation](https://owasp.org/), Maintainer, Contributor
    - Specification maintainer for CycloneDX including workign groups for v1.5: Attestations, Machine Learning (ML), Manufacturing (Formulation) as well as the [Software Component Verification Standard (SCVS)](https://owasp.org/www-project-software-component-verification-standard/)
    - Author of the v1.5 Manufacturing BOM (MBOM) proposal/schema/guide; you an even see my quote in the announcement: https://cyclonedx.org/news/cyclonedx-v1.5-released/
-   - Creator/Maintainer CycloneDX Tool "sbom-utility", Maintainer CycloneDX Tool "license-scanner"
+   - Creator/Maintainer CycloneDX Tool [sbom-utility](https://github.com/CycloneDX/sbom-utility), Maintainer CycloneDX Tool "license-scanner"
  
 #### Course Author
 
 - [edX: Building Cloud Native and Multicloud Applications](https://www.edx.org/course/building-cloud-native-and-multicloud-applications)
 - [Coursera: Building Cloud Native and Multicloud](https://www.coursera.org/learn/ibm-building-cloud-native-and-multicloud)
   - Covers core concepts and practices of building and running Cloud Native applications and how to run these applications in a multicloud environment including DevSecOps, CI/CD, Docker, Kubernetes, and OpenShift.
-  - *available
 
 #### Badges
 
