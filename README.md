@@ -18,7 +18,6 @@
 - 🤔 I’m hoping to create reusable CI/CD workflows/profiles for DevSecOps
 - 💬 Ask me about Ohio State! :o: :raised_hands: :heavy_exclamation_mark: :o:
 - 📫 How to reach me: Email or Slack
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Worked on Skynet AI for the US Navy in the late 80s.. buy me a mead sometime ;)
 
 #### Foundations
